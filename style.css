@@ -1,0 +1,7 @@
+#memory-8gb, #memory-16gb, #storage-256gb, #storage-512gb, #storage-1tb, #free-delivery, #express-delivery{
+    border: 1px solid gray;
+    border-radius: 8px;
+};
+.border-linee{
+    border-top: 2px solid black;
+}
